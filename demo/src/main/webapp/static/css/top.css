@@ -1,0 +1,28 @@
+BODY {
+	MARGIN: 0px;
+	BACKGROUND-COLOR: #ffffff;
+	FONT-SIZE: 12px;
+	COLOR: #000000
+}
+TD {
+	FONT-SIZE: 12px;
+	COLOR: #000000
+}
+TH {
+	FONT-SIZE: 12px;
+	COLOR: #000000
+}
+
+.bg_top {
+	height:71px;
+	background-image: url("../images/top.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: center;
+	font-size:55px;
+	font-family: "楷体";
+	font-weight: bold;
+	color:#fff;
+	padding-top:8px;
+	text-shadow:#000 5px 5px 5px;
+}
