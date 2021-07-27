@@ -1,5 +1,0 @@
-public hello {
-	pubic static void main(String[] args){
-		system.out.println("hello git");
-	}
-}
